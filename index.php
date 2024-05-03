@@ -9,7 +9,7 @@
 <body>
   <a-scene>
     <!-- Video -->
-    <a-video src="iii.mp4" width="16" height="9" position="0 2 -9"></a-video>
+    <a-video src="i.mp4" width="16" height="9" position="0 2 -9"></a-video>
 
     <!-- Sky background -->
     <a-sky src="m.jpg" rotation="0 -90"></a-sky>
